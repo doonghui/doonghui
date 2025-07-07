@@ -1,4 +1,3 @@
-# Hi I'm Park dong hui 👋
 
 <!--
 **doonghui/doonghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ParkDongHui&fontSize=90)
 
 <div align="center">
   🧑🏻‍💻 Tech Stack 🧑🏻‍💻
