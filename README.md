@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 🧑🏻‍💻 Tech Stack 🧑🏻‍💻
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
-출처: https://dawonny.tistory.com/460 [WonnyDocs:티스토리]
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=louisp0215)](https://solved.ac/louisp0215/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doonghui&show_icons=true&theme=radical)
-
-
-
-출처: https://dawonny.tistory.com/460 [WonnyDocs:티스토리]
