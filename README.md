@@ -15,10 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑🏻‍💻 Tech Stack 🧑🏻‍💻
-
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=louisp0215)](https://solved.ac/louisp0215/)
+<div align="center">
+  🧑🏻‍💻 Tech Stack 🧑🏻‍💻
+<br>
+<br>
+
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-535D6C?style=flat-square&logo=aws&logoColor=white"/>   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  
+<br>
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=louisp0215)](https://solved.ac/louisp0215/) <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doonghui&show_icons=true&theme=radical)
+
+
+</div>
+
+
