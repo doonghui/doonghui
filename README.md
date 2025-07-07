@@ -26,10 +26,12 @@ Here are some ideas to get you started:
   
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doonghui&show_icons=true&theme=radical) <br>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doonghui&show_icons=true&theme=radical)
+
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=louisp0215)](https://solved.ac/louisp0215/)
-
 
 
 </div>
